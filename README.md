@@ -7,6 +7,6 @@
 - 😄 Pronouns: He/Him
 
 ### About Me
-I’m an AI Engineer at **qlu.ai**, with a **BS in Software Engineering** and an **MS in Artificial Intelligence**. With 3+ years of professional experience, I specialize in developing and optimizing AI systems. My passion lies in combining research and development to create innovative solutions that address real-world challenges.
+I’m an AI Engineer at **qlu.ai**, with a **BS in Software Engineering** and an **MS in Artificial Intelligence**. With 2+ years of professional experience, I specialize in developing and optimizing AI systems. My passion lies in combining research and development to create innovative solutions that address real-world challenges.
 
 Looking forward to connecting and collaborating!
