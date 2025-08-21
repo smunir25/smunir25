@@ -57,7 +57,6 @@ I thrive at the intersection of hands-on engineering, research, and team leaders
 
 - [LinkedIn](https://www.linkedin.com/in/saadmunir25)
 - [Email](mailto:saadmunir25@gmail.com)
-- *(Add your website, blog, or Twitter if you’d like!)*
 
 ---
 
