@@ -219,14 +219,7 @@ Previously **Senior AI Engineer at QLU.ai**, delivering NLP, semantic search, an
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=smunir25&theme=midnight-purple&hide_border=true&background=0d0d1f&ring=7fdbff&fire=ff4ecd&currStreakLabel=7fdbff&sideLabels=a8b2d8&sideNums=7fdbff&dates=6b6b9a&starting_year=2023" width="49%"/>
-
-**Most Used Languages** *(across public + private repos)*
-
-![Python](https://img.shields.io/badge/Python-████████████████████░░░░-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-████████████████░░░░░░░░-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-████████████░░░░░░░░░░░░-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-██████████░░░░░░░░░░░░░░-cb171e?style=flat-square)
-![Markdown](https://img.shields.io/badge/Markdown-████████░░░░░░░░░░░░░░░░-000000?style=flat-square&logo=markdown&logoColor=white)
+<img src="langs.svg" width="49%"/>
 
 
 
@@ -236,8 +229,7 @@ Previously **Senior AI Engineer at QLU.ai**, delivering NLP, semantic search, an
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smunir25&theme=2077&utcOffset=5" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smunir25&theme=2077" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smunir25&theme=2077&utcOffset=5" width="100%"/>
 
 </div>
 
