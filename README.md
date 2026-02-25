@@ -10,7 +10,7 @@
 ╔══════════════════════════════════════════════════════════════════╗
 ║  role    →  Senior AI Engineer @ QLU.ai                         ║
 ║  focus   →  LLMs · NLP · Voice AI · Agentic Systems            ║
-║  loc     →  Islamabad, Pakistan  🇵🇰                            ║
+║  loc     →  Lahore, Pakistan  🇵🇰                              ║
 ║  status  →  [ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ ] building...             ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -19,16 +19,16 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saadmunir)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saad@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saadmunir25)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadmunir.t@gmail.com)
 [![QLU.ai](https://img.shields.io/badge/QLU.ai-060610?style=for-the-badge&logoColor=7fdbff)](https://qlu.ai)
-[![Profile Views](https://komarev.com/ghpvc/?username=saadmunir&style=for-the-badge&color=39ff9f&label=VISITORS)](https://github.com/saadmunir)
+[![Profile Views](https://komarev.com/ghpvc/?username=smunir25&style=for-the-badge&color=39ff9f&label=VISITORS)](https://github.com/smunir25)
 
 </div>
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=saadmunir&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1f&title_color=7fdbff&icon_color=ff4ecd&text_color=a8b2d8&ring_color=7fdbff" />
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=smunir25&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1f&title_color=7fdbff&icon_color=ff4ecd&text_color=a8b2d8&ring_color=7fdbff&count_private=true&include_all_commits=true" />
 
 ### `> whoami`
 
@@ -57,7 +57,7 @@ I thrive on **breaking complexity barriers** — in algorithms and in life.
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=flat-square&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 **AI / ML Specialties**
 
@@ -107,7 +107,7 @@ I thrive on **breaking complexity barriers** — in algorithms and in life.
 <tr>
 <td width="50%">
 
-**🔬 BiL-FaND — Fake News Detection** &nbsp;[![Paper](https://img.shields.io/badge/📄%20Paper-Read-7fdbff?style=flat-square)](https://link-to-paper)
+**🔬 BiL-FaND — Fake News Detection** &nbsp;[![Paper](https://img.shields.io/badge/Paper-Read-7fdbff?style=flat-square)](https://link-to-paper)
 > Published in *International Journal of Machine Learning & Cybernetics*. Bilingual fake news detection system.
 
 `NLP` `Classification` `Published`
@@ -126,18 +126,31 @@ I thrive on **breaking complexity barriers** — in algorithms and in life.
 
 ---
 
-### `> stats --github`
+### `> stats --since 2022`
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saadmunir&theme=midnight-purple&hide_border=true&background=0d0d1f&ring=7fdbff&fire=ff4ecd&currStreakLabel=7fdbff&sideLabels=a8b2d8&sideNums=7fdbff&dates=6b6b9a" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadmunir&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1f&title_color=7fdbff&text_color=a8b2d8" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=smunir25&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1f&title_color=7fdbff&icon_color=ff4ecd&text_color=a8b2d8&ring_color=7fdbff&count_private=true&include_all_commits=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=smunir25&theme=midnight-purple&hide_border=true&background=0d0d1f&ring=7fdbff&fire=ff4ecd&currStreakLabel=7fdbff&sideLabels=a8b2d8&sideNums=7fdbff&dates=6b6b9a&starting_year=2023" width="49%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saadmunir&bg_color=0d0d1f&color=7fdbff&line=ff4ecd&point=39ff9f&area=true&area_color=7fdbff&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smunir25&layout=compact&count_private=true&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1f&title_color=7fdbff&text_color=a8b2d8" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smunir25&theme=2077&utcOffset=5" width="49%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smunir25&theme=2077" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=smunir25&bg_color=0d0d1f&color=7fdbff&line=ff4ecd&point=39ff9f&area=true&area_color=7fdbff&hide_border=true&from=2023-01-01" width="100%"/>
 
 </div>
 
