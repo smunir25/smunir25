@@ -219,7 +219,18 @@ Previously **Senior AI Engineer at QLU.ai**, delivering NLP, semantic search, an
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=smunir25&theme=midnight-purple&hide_border=true&background=0d0d1f&ring=7fdbff&fire=ff4ecd&currStreakLabel=7fdbff&sideLabels=a8b2d8&sideNums=7fdbff&dates=6b6b9a&starting_year=2023" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smunir25&layout=compact&count_private=true&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0d0d1f&title_color=7fdbff&text_color=a8b2d8" width="49%"/>
+
+**Most Used Languages** *(across public + private repos)*
+
+![Python](https://img.shields.io/badge/Python-████████████████████░░░░-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-████████████████░░░░░░░░-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-████████████░░░░░░░░░░░░-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-██████████░░░░░░░░░░░░░░-cb171e?style=flat-square)
+![Markdown](https://img.shields.io/badge/Markdown-████████░░░░░░░░░░░░░░░░-000000?style=flat-square&logo=markdown&logoColor=white)
+
+
+
+
 
 </div>
 
