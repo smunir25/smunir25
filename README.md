@@ -8,11 +8,10 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  role    →  Generative AI Engineer @ Phaedra Solutions          ║
-║  focus   →  LLMs · RAG · NLP · Voice AI · Agentic Systems      ║
-║  loc     →  Lahore, Pakistan  🇵🇰                              ║
-║  contrib →  57 (2026) · 361 (2025) · 606 (2024) · 454 (2023)  ║
-║  status  →  [ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ ] building...             ║
+║  role    →  Generative AI Engineer @ Phaedra Solutions           ║
+║  focus   →  LLMs · RAG · NLP · Voice AI · Agentic Systems        ║
+║  loc     →  Lahore, Pakistan                                     ║
+║  status  →  [ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ ] building...                 ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
