@@ -7,12 +7,12 @@
 <div align="center">
 
 ```
-                                ╔══════════════════════════════════════════════════════════════════╗
-                                ║  role    →  Generative AI Engineer @ Phaedra Solutions           ║
-                                ║  focus   →  LLMs · RAG · NLP · Voice AI · Agentic Systems        ║
-                                ║  loc     →  Lahore, Pakistan                                     ║
-                                ║  status  →  [ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ ] building...                 ║
-                                ╚══════════════════════════════════════════════════════════════════╝
+                          ╔══════════════════════════════════════════════════════════════════╗
+                          ║  role    →  Generative AI Engineer @ Phaedra Solutions           ║
+                          ║  focus   →  LLMs · RAG · NLP · Voice AI · Agentic Systems        ║
+                          ║  loc     →  Lahore, Pakistan                                     ║
+                          ║  status  →  [ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ ] building...                 ║
+                          ╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
