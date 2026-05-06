@@ -218,8 +218,6 @@ Previously **Senior AI Engineer at QLU.ai**, delivering NLP, semantic search, an
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=smunir25&theme=midnight-purple&hide_border=true&background=0d0d1f&ring=7fdbff&fire=ff4ecd&currStreakLabel=7fdbff&sideLabels=a8b2d8&sideNums=7fdbff&dates=6b6b9a&starting_year=2023" width="49%"/>
-<img src="langs.svg" width="49%"/>
-
 
 
 
